@@ -1,2 +1,3 @@
 # Long-Project
-Mern Project Using MongDB, Express, React, Node.js
+
+Mern Project Using MongoDB, Express, React, Node.js
